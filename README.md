@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<p align="center"><img src="./profile.gif" width="400" /></p>
+<p align="center"><img src="./profile2.gif" width="400" /></p>
 
 ---
 
