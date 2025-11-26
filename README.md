@@ -4,26 +4,36 @@
 
 ---
 
-<h4>Skills</h4>
-**HTML**
-<progress value="90" max="100"></progress> 90%
-**CSS**
-<progress value="80" max="100"></progress> 80%
-**React.js**
-<progress value="80" max="100"></progress> 80%
-**JavaScript**
-<progress value="80" max="100"></progress> 80%
-**Node.js**
-<progress value="80" max="100"></progress> 80%
-**Express.js**
-<progress value="80" max="100"></progress> 80%
-**Java**
-<progress value="70" max="100"></progress> 70%
-**C**
-<progress value="70" max="100"></progress> 70%
-**Python**
-<progress value="50" max="100"></progress> 50%
----
+**HTML**  
+![HTML](https://progress-bar.dev/90/?title=HTML&width=300)
+### Skills
+
+**HTML**  
+█████████░░ 90%
+
+**CSS**  
+████████░░░ 80%
+
+**React.js**  
+████████░░░ 80%
+
+**JavaScript**  
+████████░░░ 80%
+
+**Node.js**  
+████████░░░ 80%
+
+**Express.js**  
+████████░░░ 80%
+
+**Java**  
+███████░░░░ 70%
+
+**C**  
+███████░░░░ 70%
+
+**Python**  
+█████░░░░░░ 50%
 
 ## Tech Stack
 
@@ -89,9 +99,8 @@
 
 ## 📫 How to reach me
 
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/your-link)**  
->- 🌐 Portfolio: **https://your-portfolio-link.com** (if you have / when you make one)
+- 📧 Email: **hvchaudhary86@gmail.com**  
+- 💼 LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/harsh-vardhan-chaudhary-0b31b1367/)**  
 
 ---
 
