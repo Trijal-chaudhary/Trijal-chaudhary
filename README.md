@@ -4,31 +4,73 @@
 
 ---
 
-<table>
+<table width="100%" style="border-collapse: collapse;">
 <tr>
-<td>
+
+<!-- LEFT SIDE -->
+<td width="60%" valign="top">
 
 ### 🛠 Skills
 
-**HTML** — █████████░░ 90%  
-**CSS** — ████████░░░ 80%  
-**React.js** — ████████░░░ 80%  
-**JavaScript** — ████████░░░ 80%  
-**Node.js** — ████████░░░ 80%  
-**Express.js** — ████████░░░ 80%  
-**Java** — ███████░░░░ 70%  
-**C** — ███████░░░░ 70%  
-**Python** — █████░░░░░░ 50%
+<table width="100%" style="border-collapse: collapse; border: none;">
+
+<tr>
+<td width="30%"><b>HTML</b></td>
+<td width="70%">█████████░░ &nbsp; <b>90%</b></td>
+</tr>
+
+<tr>
+<td><b>CSS</b></td>
+<td>████████░░░ &nbsp; <b>80%</b></td>
+</tr>
+
+<tr>
+<td><b>React.js</b></td>
+<td>████████░░░ &nbsp; <b>80%</b></td>
+</tr>
+
+<tr>
+<td><b>JavaScript</b></td>
+<td>████████░░░ &nbsp; <b>80%</b></td>
+</tr>
+
+<tr>
+<td><b>Node.js</b></td>
+<td>████████░░░ &nbsp; <b>80%</b></td>
+</tr>
+
+<tr>
+<td><b>Express.js</b></td>
+<td>████████░░░ &nbsp; <b>80%</b></td>
+</tr>
+
+<tr>
+<td><b>Java</b></td>
+<td>███████░░░░ &nbsp; <b>70%</b></td>
+</tr>
+
+<tr>
+<td><b>C</b></td>
+<td>███████░░░░ &nbsp; <b>70%</b></td>
+</tr>
+
+<tr>
+<td><b>Python</b></td>
+<td>█████░░░░░░ &nbsp; <b>50%</b></td>
+</tr>
+
+</table>
 
 </td>
 
-<td align="right" width="500">
-
-<img src="https://media.tenor.com/pRn6wYY6tgEAAAAM/zoro.gif" width="450" />
-
+<!-- RIGHT SIDE -->
+<td align="right" width="40%" valign="center">
+<img src="https://media.tenor.com/pRn6wYY6tgEAAAAM/zoro.gif" width="300" />
 </td>
+
 </tr>
 </table>
+
 
 ## Tech Stack
 
