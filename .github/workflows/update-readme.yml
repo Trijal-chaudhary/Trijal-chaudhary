@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Generate new sentence
+      run: |
+        sentences=($(cat sentences.txt))
+        count=${#sentences[@]}
+        index=$((RANDOM % count))
+        selected="${sentences[$index]}"
+        sed -i "s|{{sentence}}|$selected|g" README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git commit -m "Auto update sentence"
+        git push
