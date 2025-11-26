@@ -4,17 +4,30 @@
 
 ---
 
-<p align="center">
-  🌱 I’m currently learning <strong>Backend architecture, authentication, and scalable APIs</strong><br/>
-  💻 I enjoy building <strong>real-world projects</strong> that people can actually use<br/>
-  🎯 Long-term goal: <strong>Become a strong full-stack & system design engineer</strong><br/>
-</p>
-
+<h4>Skills</h4>
+**HTML**
+<progress value="90" max="100"></progress> 90%
+**CSS**
+<progress value="80" max="100"></progress> 80%
+**React.js**
+<progress value="80" max="100"></progress> 80%
+**JavaScript**
+<progress value="80" max="100"></progress> 80%
+**Node.js**
+<progress value="80" max="100"></progress> 80%
+**Express.js**
+<progress value="80" max="100"></progress> 80%
+**Java**
+<progress value="70" max="100"></progress> 70%
+**C**
+<progress value="70" max="100"></progress> 70%
+**Python**
+<progress value="50" max="100"></progress> 50%
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
@@ -23,48 +36,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="40" alt="Express.js" />
 </p>
 
-### 🗄 Database
+### Database
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+
 </p>
 
-### ☕ Programming Language
+### Programming Language
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" alt="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="40" alt="C" />
 </p>
 
+### Tools
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHzBsoRkOcXuYBYEz7AT6E0J_84Qe3u3hFA&s" width="40" alt="Java" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s" width="40" alt="Java" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" alt="Java" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="40" alt="Java" />
+  
+  
+</p>
 ---
-
-## 🛠️ What I Like Building
-
-- 🔌 **Full-stack web apps** with React + Node.js + MongoDB  
-- 🌍 **Real-world tools** that solve problems for students & local people  
-- 🎮 **Fun projects** like games, dashboards, or interactive UIs  
-
----
-
-## 🚀 Highlighted Projects (examples – edit these)
-
-### 🔹 LocalConnect – Local Services Platform  
-A platform to connect users with **local electricians, plumbers, tutors, home cleaners, and more**.  
-- Built with **React, Node.js, MongoDB, Express, Socket.io**
-- Features **authentication, bookings, reviews, OTP, live chat**
-- Focused on **real-world usability** for Indian local services
-
-### 🎲 World Tycoon – Multiplayer Board Game  
-A digital version inspired by **International Business Game** so friends can play online.  
-- Realtime gameplay using **Socket.io**
-- Backend using **Node.js + Express**
-- Frontend using **React**
 
 > 📝 I love building stuff that *I* would actually use.
 
@@ -88,19 +91,13 @@ A digital version inspired by **International Business Game** so friends can pla
 
 - 📧 Email: **your-email@example.com**  
 - 💼 LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/your-link)**  
-- 🌐 Portfolio: **https://your-portfolio-link.com** (if you have / when you make one)
+>- 🌐 Portfolio: **https://your-portfolio-link.com** (if you have / when you make one)
 
 ---
 
 ## 🧠 Currently working on
 
 - Improving my **DSA & problem solving**  
-- Making my projects **clean, scalable, and production-ready**  
-- Learning **better UI/UX** for React apps  
+- Making my projects **clean, scalable, and production-ready** 
 
 ---
-
-## 💬 Fun fact
-
-I break things just to fix them better next time 😄  
-If you’re into **web dev, JS, or backend stuff**, we’ll vibe 🔥
