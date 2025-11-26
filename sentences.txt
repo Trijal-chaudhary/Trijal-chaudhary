@@ -1,0 +1,5 @@
+I am a Full Stack Developer.
+I build scalable MERN applications.
+I work with React, Node.js, and MongoDB.
+I write clean and maintainable code.
+I love solving problems and learning new technologies.
