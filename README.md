@@ -1,39 +1,34 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hi, I'm Harsh Vardhan Chaudahry</h1>
 <p align="center"><img src="./profile2.gif" width="600" /></p>
 
 ---
 
-**HTML**  
-![HTML](https://progress-bar.dev/90/?title=HTML&width=300)
-### Skills
+<table>
+<tr>
+<td>
 
-**HTML**  
-█████████░░ 90%
+### 🛠 Skills
 
-**CSS**  
-████████░░░ 80%
+**HTML** — █████████░░ 90%  
+**CSS** — ████████░░░ 80%  
+**React.js** — ████████░░░ 80%  
+**JavaScript** — ████████░░░ 80%  
+**Node.js** — ████████░░░ 80%  
+**Express.js** — ████████░░░ 80%  
+**Java** — ███████░░░░ 70%  
+**C** — ███████░░░░ 70%  
+**Python** — █████░░░░░░ 50%
 
-**React.js**  
-████████░░░ 80%
+</td>
 
-**JavaScript**  
-████████░░░ 80%
+<td align="right" width="500">
 
-**Node.js**  
-████████░░░ 80%
+<img src="https://media.tenor.com/pRn6wYY6tgEAAAAM/zoro.gif" width="450" />
 
-**Express.js**  
-████████░░░ 80%
-
-**Java**  
-███████░░░░ 70%
-
-**C**  
-███████░░░░ 70%
-
-**Python**  
-█████░░░░░░ 50%
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
@@ -50,7 +45,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="40" alt="Express.js" />
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="40" alt="Express.js" />
 </p>
 
 ### Database
@@ -83,19 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-> Replace `your-username` below with your actual GitHub username.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=react" alt="GitHub streak" />
-</p>
-
----
 
 ## 📫 How to reach me
 
