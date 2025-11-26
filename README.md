@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A 2nd-year Software Engineering student who loves building full-stack stuff 🚀</h3>
+<h3 align="center">{sentences}</h3>
 
 ---
 
