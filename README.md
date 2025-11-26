@@ -3,7 +3,7 @@
 <p align="center"><img src="./profile2.gif" width="600" /></p>
 
 ---
-
+<div align="center">
 <table width="100%" style="border-collapse: collapse;">
 <tr>
 
@@ -70,7 +70,7 @@
 
 </tr>
 </table>
-
+</div>
 
 ## Tech Stack
 
@@ -121,14 +121,14 @@
 ---
 
 
-## 📫 How to reach me
+## How to reach me
 
 - 📧 Email: **hvchaudhary86@gmail.com**  
 - 💼 LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/harsh-vardhan-chaudhary-0b31b1367/)**  
 
 ---
 
-## 🧠 Currently working on
+## Currently working on
 
 - Improving my **DSA & problem solving**  
 - Making my projects **clean, scalable, and production-ready** 
