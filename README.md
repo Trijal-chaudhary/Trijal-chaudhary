@@ -10,7 +10,7 @@
 <!-- LEFT SIDE -->
 <td width="60%" valign="top">
 
-### 🛠 Skills
+### Skills
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 
